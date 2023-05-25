@@ -162,7 +162,8 @@ Description: Black Magic Probe (BlackPill-F411CE) v1.9.0-705-g6c395e51
 Best ref: 
 https://ciesie.com/post/black_magic_probe_stlink/
 
-
+board pin out ref: 
+https://github.com/WeActStudio/WeActStudio.MiniSTM32F4x1
 
 
 
